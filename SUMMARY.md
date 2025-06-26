@@ -7,7 +7,7 @@
 ## 시작하기 <a href="#start" id="start"></a>
 
 * [이용 규칙](start/rules.md)
-* [엔더 규칙](start/undefined.md)
+* [엔드 규칙](start/undefined.md)
 
 ## 알아보기 <a href="#server" id="server"></a>
 
