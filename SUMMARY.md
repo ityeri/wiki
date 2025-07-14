@@ -8,6 +8,7 @@
 
 * [이용 규칙](start/rules.md)
 * [엔드 규칙](start/undefined.md)
+* [스폰상점 규칙](start/undefined-1.md)
 
 ## 알아보기 <a href="#server" id="server"></a>
 
